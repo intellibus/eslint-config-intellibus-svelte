@@ -1,5 +1,3 @@
-
-
 const module = {
   root: true,
   parser: '@typescript-eslint/parser',
@@ -50,6 +48,7 @@ const module = {
     },
   ],
   rules: {
+    'no-param-reassign': 'off',
     'import/extensions': [
       'error',
       'ignorePackages',
@@ -73,7 +72,7 @@ const module = {
     '@typescript-eslint/no-use-before-define': ['error'],
     'jsdoc/require-param-type': 'off',
     'jsdoc/require-param': 'off',
-    'no-underscore-dangle': 'off'
+    'no-underscore-dangle': 'off',
   },
 };
 

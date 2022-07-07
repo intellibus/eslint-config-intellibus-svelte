@@ -35,7 +35,7 @@ specifiers:
   rimraf: 3.0.2
   semantic-release: 19.0.3
   semantic-release-interval: 1.0.46
-  svelte: 3.48.0
+  svelte: 3.49.0
   tsm: 2.2.1
   typescript: 4.7.4
   uvu: 0.5.6
@@ -53,7 +53,7 @@ dependencies:
   eslint-plugin-jsdoc: 39.3.2_eslint@8.19.0
   eslint-plugin-no-only-tests: 2.6.0
   eslint-plugin-promise: 6.0.0_eslint@8.19.0
-  eslint-plugin-svelte3: 4.0.0_m4jpobot6gi3xtcba7bv5cflma
+  eslint-plugin-svelte3: 4.0.0_jxmmfmurkts274jdspwh3cyqve
 
 devDependencies:
   '@commitlint/cli': 17.0.3
@@ -77,7 +77,7 @@ devDependencies:
   rimraf: 3.0.2
   semantic-release: 19.0.3
   semantic-release-interval: 1.0.46
-  svelte: 3.48.0
+  svelte: 3.49.0
   tsm: 2.2.1
   typescript: 4.7.4
   uvu: 0.5.6
@@ -2045,14 +2045,14 @@ packages:
       eslint: 8.19.0
     dev: false
 
-  /eslint-plugin-svelte3/4.0.0_m4jpobot6gi3xtcba7bv5cflma:
+  /eslint-plugin-svelte3/4.0.0_jxmmfmurkts274jdspwh3cyqve:
     resolution: {integrity: sha512-OIx9lgaNzD02+MDFNLw0GEUbuovNcglg+wnd/UY0fbZmlQSz7GlQiQ1f+yX0XvC07XPcDOnFcichqI3xCwp71g==}
     peerDependencies:
       eslint: '>=8.0.0'
       svelte: ^3.2.0
     dependencies:
       eslint: 8.19.0
-      svelte: 3.48.0
+      svelte: 3.49.0
     dev: false
 
   /eslint-scope/5.1.1:
@@ -4280,8 +4280,8 @@ packages:
     resolution: {integrity: sha512-ot0WnXS9fgdkgIcePe6RHNk1WA8+muPa6cSjeR3V8K27q9BB1rTE3R1p7Hv0z1ZyAc8s6Vvv8DIyWf681MAt0w==}
     engines: {node: '>= 0.4'}
 
-  /svelte/3.48.0:
-    resolution: {integrity: sha512-fN2YRm/bGumvjUpu6yI3BpvZnpIm9I6A7HR4oUNYd7ggYyIwSA/BX7DJ+UXXffLp6XNcUijyLvttbPVCYa/3xQ==}
+  /svelte/3.49.0:
+    resolution: {integrity: sha512-+lmjic1pApJWDfPCpUUTc1m8azDqYCG1JN9YEngrx/hUyIcFJo6VZhj0A1Ai0wqoHcEIuQy+e9tk+4uDgdtsFA==}
     engines: {node: '>= 8'}
 
   /temp-dir/2.0.0:

@@ -2889,7 +2889,7 @@ packages:
       jackspeak: 2.2.0
       minimatch: 9.0.0
       minipass: 5.0.0
-      path-scurry: 1.9.0
+      path-scurry: 1.9.1
     dev: true
 
   /glob/7.2.3:
@@ -4282,8 +4282,8 @@ packages:
   /path-parse/1.0.7:
     resolution: {integrity: sha512-LDJzPVEEEPR+y48z93A0Ed0yXb8pAByGWo/k5YYdYgpY2/2EsOsksJrq7lOHxryrVOn1ejG6oAp8ahvOIQD8sw==}
 
-  /path-scurry/1.9.0:
-    resolution: {integrity: sha512-KLejx+14koDZLnb3JNDZbjcmHC/IO2Imd3rNoyt5mynieVd+MT4b1aaGaXAHw06H3P+aZ3Q+56VKJ6BCHMO3WA==}
+  /path-scurry/1.9.1:
+    resolution: {integrity: sha512-UgmoiySyjFxP6tscZDgWGEAgsW5ok8W3F5CJDnnH2pozwSTGE6eH7vwTotMwATWA2r5xqdkKdxYPkwlJjAI/3g==}
     engines: {node: '>=16 || 14 >=14.17'}
     dependencies:
       lru-cache: 9.1.1

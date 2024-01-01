@@ -60,7 +60,7 @@
     "rimraf": "5.0.5",
     "semantic-release": "21.1.2",
     "semantic-release-interval": "1.0.46",
-    "svelte": "3.59.2",
+    "svelte": "4.2.8",
     "tsm": "2.3.0",
     "typescript": "5.1.6",
     "uvu": "0.5.6"
